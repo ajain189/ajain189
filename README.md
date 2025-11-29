@@ -6,7 +6,7 @@ Welcome to my profile! I am a student developer interested in robotics, machine 
 
 ## 🚀 About Me
 
-- 🎓 Junior at the [North Carolina School of Science and Mathematics](https://www.ncssm.edu/).
+- 🎓 Student at the [North Carolina School of Science and Mathematics](https://www.ncssm.edu/).
 - 🤖 Member of FRC Team 900 Zebracorns, former Captain of Team 2059 Hitchhikers  
 - 🧠 Focused on machine learning, backend development, and robotics control systems  
 - 🏡 Outside of engineering, I enjoy rock climbing and playing sports like pickleball, soccer, ultimate frisbee, and football.
@@ -28,9 +28,9 @@ Welcome to my profile! I am a student developer interested in robotics, machine 
 
 ## 📈 GitHub Stats
 
-![Aarush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajain189&show_icons=true&theme=default)
+![Aarush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajain189&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajain189&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajain189&layout=compact)
 
 ---
 
