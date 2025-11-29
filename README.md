@@ -93,3 +93,5 @@ At **SAM IT Solutions**, I worked as a software development intern.
 
 - [LinkedIn](https://www.linkedin.com/in/aarush-jain-1baa9a34b)
 - Email: **aarushjain189@gmail.com**
+
+Thanks for looking at my profile! Connect with me or let me know if you'd like to work on a project!
