@@ -28,9 +28,9 @@ Welcome to my profile! I am a student developer interested in robotics, machine 
 
 ## 📈 GitHub Stats
 
-![Aarush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajain189&show_icons=true)
+![Aarush's GitHub Stats](https://github-stats-ajain189.vercel.app/api?username=ajain189&show_icons=true&theme=aura)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajain189&layout=compact)
+![Top Languages](https://github-stats-ajain189.vercel.app/api/top-langs/?username=ajain189&layout=compact&theme=aura&hide=Jupyter%20Notebook,Makefile)
 
 ---
 
