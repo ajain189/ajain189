@@ -56,6 +56,8 @@ Welcome to my profile! I am a student developer interested in robotics, machine 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![FRC Control Systems](https://img.shields.io/badge/FRC_Control_Systems-ED1C24?style=flat-square&logo=first&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
 
 ### **Scientific Computing & Simulation**
 
